@@ -37,5 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikia&show_icons=true&locale=en&layout=compact" alt="erikia" /></p>
 
-<br>
+<br><br
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikia&show_icons=true&locale=en" alt="erikia" /></p>
+<hr> 
+![Snake animation](https://github.com/erikia/erikia/blob/output/github-contribution-grid-snake.svg)
