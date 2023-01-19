@@ -43,8 +43,10 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/erikia">
-  <img style="height: auto; width: 41%;" class="img" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
-  <img style="height: auto; width: 40%;" class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
+  <div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
+  <img class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
+    </div>
 </a>
 
 
