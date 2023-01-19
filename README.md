@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header"/>
+</p>
+
 [![MasterHead](https://static.wixstatic.com/media/50b598_ccbf96ba258d446296e88bc4d573f14a~mv2.gif)](https://erikia.io)
 
 <h1 align="center">Hi 👋, I'm Erikia</h1>
@@ -39,8 +43,8 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/erikia">
-  <img height="180em" style="float:left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
+  <img style="height: auto; width: 40%;" class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
 </a>
 
 
