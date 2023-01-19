@@ -39,9 +39,10 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/erikia">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
+  <img height="180em" style="float:left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" style="float:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
 </a>
+
 
 ![Snake animation](https://github.com/erikia/erikia/blob/output/github-contribution-grid-snake.svg)
   
