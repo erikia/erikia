@@ -43,9 +43,12 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/erikia">
-  <img style="height: auto; width: 46%;" class="img" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true" />
-  <img style="height: auto; width: 45%;" class="img"src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikia&theme=noctis_minimus&layout=compact" />
+  <img align="left" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikia&theme=noctis_minimus&show_icons=true&locale=en&layout=compact" alt="erikia" />
+  <img align="center" style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=erikia&theme=noctis_minimus&show_icons=true&locale=en" alt="erikia" />
+  
 </a>
+
+
 
 
 ![Snake animation](https://github.com/erikia/erikia/blob/output/github-contribution-grid-snake.svg)
